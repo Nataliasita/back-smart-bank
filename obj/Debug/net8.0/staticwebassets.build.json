@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2KyHE+iN55ZxSaPMB3DFiho/kEE5pzZ2b+qLDOXvFIE=",
+  "Source": "PaymentsSmartBankAPI",
+  "BasePath": "_content/PaymentsSmartBankAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
